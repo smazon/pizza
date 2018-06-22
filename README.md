@@ -2,7 +2,7 @@
 
 Este aplicação é um demo de cliente de Chatbot em Node.js que utiliza Watson Conversation. Basta criar um conversation, colocar as credenciais neste app e fazer o deploy no Bluemix. (Exemplo de criação de Watson Conversation no arquivo: https://github.com/sergiogama/chatbot/blob/master/TUTORIAL%20ChatBot.pdf).
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/sergiogama/chatbot)
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/smazon/pizza)
 
 OU
 
